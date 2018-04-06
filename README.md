@@ -7,7 +7,8 @@ WHEREAS, the Licensor owns the copyright and all other related rights to the mus
 WHEREAS, the Licensee desires to obtain certain rights to the musical composition for using it in the Film trailer.
 
 The Parties agree as follows:
-DEFINITIONS
+
+### DEFINITIONS
 
 **a. Licensor** means a party which is granting the right to use the Licensed Rights.
 
@@ -56,3 +57,31 @@ r**. Trailer** means an advertisement or a commercial for a feature film that 
 **w. Non-exclusive** means that license can be granted as often by the licensor to as many licensees as desired.
 
 **x. Film trailer** means ~~[здесь будет description of the film trailer]~~
+
+### GRANT OF RIGHTS
+
+Licensor hereby grants to Licensee a non-transferable, royalty-free license to use the musical composition in the Film trailer in the following respects:
+        - Produce, reproduce a recording of the musical composition;
+        - Incorporate the musical composition into the film trailer;
+        - Perform the musical composition publicly in a cinematographic film trailer.
+
+The Licensor authorizes You to exercise the Licensed Rights for commercial purposes.
+The Licensor do not authorize You to make any modifications with the musical composition.
+Sublicensing is banned.
+Moral rights, such as the right of integrity, are not licensed under this License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+PAYMENT
+The Licensor will get the payment in ETMs, amount of which depends on the period of using the musical composition and the budget of the film trailer.
+If the budget is equal to less than $1million, than the price of the license will _____ and Licensee can use this License during from one week to one month.
+If the budget is equal to from $1 million to $10 million, than the price of the license will _____ and Licensee can use this License during 90 days.
+If the budget is equal to more than $10million, than the price of the license will _____ and Licensee can use this License during one year or more (depends on the Licensor’s request).
+DISCLAIMER
+In no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this License or use of the musical composition, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages.
+The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+TERMINATION
+
+The term of this Agreement shall begin on the Effective Date and shall continue in full force and effect for a period of 	           .
+If You fail to comply with this License, then Your rights under this License terminate automatically.
+For the avoidance of doubt, this License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the musical composition that could be made without permission under this License.
+No term or condition of this License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+ARBITRATION
+All disputes under this License that cannot be resolved by the parties shall be submitted to the arbitration under the rules and regulations of the International Arbitration and Cryptography Centre.
