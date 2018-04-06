@@ -55,4 +55,4 @@ r**. Trailer** means an advertisement or a commercial for a feature film that 
 
 **w. Non-exclusive** means that license can be granted as often by the licensor to as many licensees as desired.
 
-**x. Film trailer** means [description of the film trailer]
+**x. Film trailer** means ~~[здесь будет description of the film trailer]~~
