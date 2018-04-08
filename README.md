@@ -16,7 +16,7 @@ The Parties agree as follows:
 
 `c.` **Licensed Rights** means the rights granted to You subject to the terms and conditions of this License, which are limited to copyright that apply to Your use of the musical composition and that the Licensor has authority to license.
 
-`d.` **The Musereum platform **(hereinafter – "_platform_") means a blockchain platform for managing IP rights in the music industry. All actions with shares of tracks between authors and future holders are made and registered on that Platform.
+`d.` **The Musereum platform** (hereinafter – "_platform_") means a blockchain platform for managing IP rights in the music industry. All actions with shares of tracks between authors and future holders are made and registered on that Platform.
 
 `e.` **Non-Commercial** does not mean using the musical composition in order to make a profit.
 
