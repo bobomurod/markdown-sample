@@ -1,6 +1,6 @@
 #### _Film trailer_
 # License
-This License Agreement (“_Agreement_”) is between Licensor, ___________, and Licensee (“_You_”), ________, (collectively, the “_Parties_”). This Agreement is made effective as of the moment of transfer a necessary amount of ETMs on the Lisensor’s wallet from Licensee (hereinafter – the “_Effective Date_”). Licensor and Licensee are determined by address of their wallets. If you are exercising the Licensed Rights, it means that you accept and agree to be bound by the provisions of the License. Licensor provides the musical composition which can be acquired only on Musereum platform under the terms hereunder.
+`T`his License Agreement (“_Agreement_”) is between Licensor, ___________, and Licensee (“_You_”), ________, (collectively, the “_Parties_”). This Agreement is made effective as of the moment of transfer a necessary amount of ETMs on the Lisensor’s wallet from Licensee (hereinafter – the “_Effective Date_”). Licensor and Licensee are determined by address of their wallets. If you are exercising the Licensed Rights, it means that you accept and agree to be bound by the provisions of the License. Licensor provides the musical composition which can be acquired only on Musereum platform under the terms hereunder.
 
 WHEREAS, the Licensor owns the copyright and all other related rights to the musical composition, and
 
