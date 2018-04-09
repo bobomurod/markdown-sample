@@ -31,7 +31,7 @@ Kind of activity  |Kind of use   |Specific features  |Rights   |Prohibitions   |
 Advertisement  |All media or only Internet/TV/out (street)   |Licensee – an advertisement agency   |    • Produce, reproduce;• Incorporate into advertisement videos for TV;• Perform publicly in advertisement purposes.   |Modifications, sublicensing, copy for distribution   |Royalty   |royalty [amount of workers of Licensee + the period of  using the track]
 Apps  |All instruments like mobile phone, computers, etc.   |-   |Produce, reproduce the track   |Modifications, sublicensing, copy for distribution   |Royalty-free   |$50,000
 Cable and Network TV  |TV programs   |-   |Produce, reproduce the track incorporated into TV program(s)   |Modifications, sublicensing, copy for distribution   |Royalty-free   |$50,000
-  |   |   |   |   |   |
+Crowdfunding  |For crowdfunding purposes   |Only for crowdfunding purposes   |    • Produce, reproduce;• Incorporate into the presentations and/or on the website;• Perform in the crowdfunding videos.   |Modifications, sublicensing, copy for distribution   |Royalty-free   |$50,000
   |   |   |   |   |   |
   |   |   |   |   |   |
   |   |   |   |   |   |
