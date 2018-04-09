@@ -1,9 +1,9 @@
 
-### Musereum Smart-Licensing Framework
+## Musereum Smart-Licensing Framework
 
 Musereum is a multi-blockchain platform for managing intellectual property rights (IP rights) in the music industry. One of our goals is a simplification of a licensing procedure. On our platform smart-contracts allow to register IP rights and distribute the royalty honestly and automatically via ETM among right-holders. Right-holders own a certain percent of musical asset (the musical composition; the track) which allows to vote for managing this asset.
 
-### DAL – decentralized autonomous label
+## DAL – decentralized autonomous label
 
 DAL is a governing smart contract with associated musical composition.  Each DAL has a Charter which regulates decision making rules on issue and sell licenses, accumulate and distributes the royalty, etc.  All transactions are kept at Musereum. Hashing of time registration, which can indentify acquiring the share of the musical composition or otherwise, for example, is perpetual. No one can change it. It provides the security and grants the fair ownership and distribution of royalties and clear register of licenses.
 
@@ -14,7 +14,7 @@ The example of this Charter you can see [here][baa75695] (активная сс�
 
 The ownership of the musical composition or of its share defines by the amounts of musical tokens, which have been acquired.  The holder can vote to take part in making decision on licensing, getting royalties or a share from one-time payment, etc.
 
-### Licensing
+## Licensing
 
 Smart-licensing framework consists of four layers:
 ```
