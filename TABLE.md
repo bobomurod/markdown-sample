@@ -26,7 +26,7 @@ Smart-licensing framework consists of four layers:
 Depending on kind of the activity for which the Licensee wants to use the musical composition, characteristic will verify.
 You can see the most important points below:
 
-Kind of activity  |Kind of use   |Specific features  |Rights   |Prohibitions   |Royalty/Royalty-free   |Payments
+Kind of activity  |Kind of use   |Specific features  |Rights   |Prohibitions   |Royalty/ Royalty-free   |Payments
 --|---|---|---|---|---|--
 Advertisement  |All media or only Internet/TV/out (street)   |Licensee – an advertisement agency   |    • Produce, reproduce;• Incorporate into advertisement videos for TV;• Perform publicly in advertisement purposes.   |Modifications, sublicensing, copy for distribution   |Royalty   |royalty [amount of workers of Licensee + the period of  using the track]
   |   |   |   |   |   |
